@@ -44,3 +44,32 @@ Calculate Direction:  바라보는 방향  계산하기
 set Speed : 
 
 set Direction :
+
+
+
+
+
+## 06/23
+
+### 랜드스케이프
+#### 부양 만들기
+
+
+![image](https://user-images.githubusercontent.com/80494367/123016686-26284e00-d406-11eb-84c4-1c18c54da52d.png)
+
+플러그인 뷰 체크 한 후  water 찾기
+
+
+![image](https://user-images.githubusercontent.com/80494367/123016817-5ec82780-d406-11eb-8b69-de194cc2d30e.png)
+
+
+![image](https://user-images.githubusercontent.com/80494367/123017516-b5823100-d407-11eb-8d9a-54455a9ed274.png)
+
+워터 엑터
+
+
+![image](https://user-images.githubusercontent.com/80494367/123024739-81613d00-d414-11eb-8e7a-466d9e78fb1e.png)
+
+부양 만들기
+
+
