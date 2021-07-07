@@ -92,6 +92,92 @@ set Direction :
 
 헤더파일 + 씨피피 파일
 
+![image](https://user-images.githubusercontent.com/80494367/124677300-17a85f00-defb-11eb-8d39-d9ea7ad09ada.png)
+
+경로를 복사한 이후 코드에서 다음과 같이 경로 참조가능
+
+![image](https://user-images.githubusercontent.com/80494367/124677270-06f7e900-defb-11eb-9b1a-783a9db494a2.png)
+
+
+
+0707
+
+![image](https://user-images.githubusercontent.com/80494367/124707529-e6985080-df33-11eb-8a53-80fb2ae90086.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124707377-b51f8500-df33-11eb-82fe-ebe5a75fc11e.png)
+헤더구현 및 c++ 필요 함수 구현
+
+![image](https://user-images.githubusercontent.com/80494367/124707419-c36da100-df33-11eb-9a3e-ca4d5fe3c91b.png)
+
+로그 띄우기
+
+![image](https://user-images.githubusercontent.com/80494367/124707457-d08a9000-df33-11eb-91a3-2f77f3138be9.png)
+
+
+
+![image](https://user-images.githubusercontent.com/80494367/124707281-915c3f00-df33-11eb-982b-91fc09364655.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124707322-a1741e80-df33-11eb-95cf-0a86dea41706.png)
+![image](https://user-images.githubusercontent.com/80494367/124707354-ad5fe080-df33-11eb-8825-a1784e9aaba9.png)
+
+
+플레이어의 입장
+
+플레이어 컨트롤 : 플레이어를 대변하는 무형의 액터
+
+폰 : 플레이어에게 조종당하는 액터 , 다른 폰으로도 조작 가능
+
+순서 : 컨트롤 생성 > 폰 생성 > 폰에 빙의 > 게임 시작
+
+플레이어가 로그인 완료 시 PostLogin 이벤트 함수가 호출되어 폰 생성및 빙의 작업
+
+![image](https://user-images.githubusercontent.com/80494367/124711650-4e04cf00-df39-11eb-8595-ff328d371958.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124711706-5f4ddb80-df39-11eb-8e73-261fd8228d56.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124711691-5a892780-df39-11eb-9b6c-3572dd72ca0d.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124711731-65dc5300-df39-11eb-80c3-aaa62e97518d.png)
+![image](https://user-images.githubusercontent.com/80494367/124711749-6b399d80-df39-11eb-868e-748fa669109d.png)
+
+
+
+폰의 제작과 조작
+
+폰 변형
+![image](https://user-images.githubusercontent.com/80494367/124715030-78588b80-df3d-11eb-9847-ce4d2fc6acf2.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124715075-85757a80-df3d-11eb-9b73-69815eee3d41.png)
+
+![image](https://user-images.githubusercontent.com/80494367/124715110-91613c80-df3d-11eb-851b-245d130bd54e.png)
+
+해당 메쉬 스켈리탈  카메라 위치로  폰 형성
+
+폰 조작
+
+![image](https://user-images.githubusercontent.com/80494367/124715275-c3729e80-df3d-11eb-8789-0e6fa2239cbe.png)
+
+액션 매핑 : 조이스틱 버튼 같은 액션
+축 매핑 : 조이스틱 레버의미 ( -1 0 1 사이의 값토대)
+![image](https://user-images.githubusercontent.com/80494367/124715599-2401db80-df3e-11eb-9ed5-696945689151.png)
+
+매핑 추가
+
+InputCompinent를 통해 입력설정 처리
+
+![image](https://user-images.githubusercontent.com/80494367/124717030-b48ceb80-df3f-11eb-8678-a3f3c2aba30e.png)
+![image](https://user-images.githubusercontent.com/80494367/124717062-bb1b6300-df3f-11eb-8555-0651c660e284.png)
+
+
+
+애니메이션 설정
+
+
+
+
+
+
+
 
 
 
