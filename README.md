@@ -174,7 +174,19 @@ InputCompinent를 통해 입력설정 처리
 
 
 
+0709
 
+게임 조정 카메라
+
+카메라 2개 전환 방법
+![image](https://user-images.githubusercontent.com/80494367/125013214-621a0f00-e0a6-11eb-99b4-92115619caf0.png)
+
+![image](https://user-images.githubusercontent.com/80494367/125013140-4151b980-e0a6-11eb-9db9-09b73ca3cba8.png)
+![image](https://user-images.githubusercontent.com/80494367/125013149-49115e00-e0a6-11eb-90d5-fe92d05dfa53.png)
+
+
+
+콜라이더
 
 
 
